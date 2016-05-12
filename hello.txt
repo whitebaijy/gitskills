@@ -6,3 +6,5 @@ need password when push to remote
 now testing pull the file if need password
 gitnopasword
 gitnopasword_test
+2gitnopasword_test
+3gitnopasword_test
